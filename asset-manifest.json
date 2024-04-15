@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realestate-listings/static/css/main.b15c1f13.css",
+    "main.js": "/realestate-listings/static/js/main.d7fbf148.js",
+    "static/js/453.7bc7b40f.chunk.js": "/realestate-listings/static/js/453.7bc7b40f.chunk.js",
+    "index.html": "/realestate-listings/index.html",
+    "main.b15c1f13.css.map": "/realestate-listings/static/css/main.b15c1f13.css.map",
+    "main.d7fbf148.js.map": "/realestate-listings/static/js/main.d7fbf148.js.map",
+    "453.7bc7b40f.chunk.js.map": "/realestate-listings/static/js/453.7bc7b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15c1f13.css",
+    "static/js/main.d7fbf148.js"
+  ]
+}
